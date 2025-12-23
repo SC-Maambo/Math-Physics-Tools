@@ -15,5 +15,9 @@ connection warnings or limited functionality.
 This behavior is expected and indicates that the software is awaiting
 hardware input.
 
+## How to run
+
+After you start the application, you will receive a login screen. Username: admin, Passoword: 1234
+
 ## Author
 Sula Maambo
